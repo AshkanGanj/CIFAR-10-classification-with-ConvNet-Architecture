@@ -1,2 +1,1 @@
-# Image-Classification-with-ConvNet-Architecture
-Coming soon ... :)
+#CIFAR-10-classification-with-ConvNet-Architecture
