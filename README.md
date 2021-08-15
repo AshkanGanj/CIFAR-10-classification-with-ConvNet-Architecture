@@ -19,6 +19,11 @@ Loss and accuracy plots are shown below.
   <dev> <img src="https://user-images.githubusercontent.com/55941654/129481753-a8623cb7-03bc-4753-8100-f97bf7cdef2d.png" /></dev>
   <dev> <img src="https://user-images.githubusercontent.com/55941654/129481762-7f5c92a5-4377-4b0d-a407-44897e33b282.png" /></dev>
 </p>
+## Model summary
+This a summary of the model, which is created by model.summary
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55941654/129481937-ae025467-80c3-420d-90c1-7d533419bad6.png" />
+</p>
 ## Error Display
 
 
