@@ -11,19 +11,20 @@ The dataset is divided into five training batches and one test batch, each with 
 </p>
 
 ## Results
-I create a custom CNN network with the help of a Sequential model, and as an optimizer, I use the famous Adam's optimizer. I also normalize data to help the optimizer converge minimum.
-The model trained on three epochs and got over 80% accuracy, and you may also train with more epochs ( e.g., 30) and get over 95% accuracy.
+I create a custom CNN network with the help of a Sequential model, and as an optimizer, I use the famous Adam's optimizer. I also normalize data to help the optimizer converge minimum and use 3 dropout layer in order to fix the overfitting problem
 Loss and accuracy plots are shown below.
 
 <p align="center">
   <dev> <img src="https://user-images.githubusercontent.com/55941654/129481753-a8623cb7-03bc-4753-8100-f97bf7cdef2d.png" /></dev>
   <dev> <img src="https://user-images.githubusercontent.com/55941654/129481762-7f5c92a5-4377-4b0d-a407-44897e33b282.png" /></dev>
 </p>
+
 ## Model summary
 This a summary of the model, which is created by model.summary
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55941654/129481937-ae025467-80c3-420d-90c1-7d533419bad6.png" />
 </p>
+
 ## Error Display
 
 
