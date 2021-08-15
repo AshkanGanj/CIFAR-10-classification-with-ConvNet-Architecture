@@ -11,7 +11,8 @@ The dataset is divided into five training batches and one test batch, each with 
 </p>
 
 ## Results
-I create a custom CNN network with the help of a Sequential model, and as an optimizer, I use the famous Adam's optimizer. I also normalize data to help the optimizer converge minimum and use 3 dropout layer in order to fix the overfitting problem
+I create a custom CNN network with the help of a Sequential model, and as an optimizer, I use the famous Adam's optimizer. I also normalize data to help the optimizer converge minimum and use 3 dropout layers
+in order to fix the overfitting problem
 Loss and accuracy plots are shown below.
 
 <p align="center">
